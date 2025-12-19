@@ -1,0 +1,1 @@
+'Write-Host "test"' | Out-File "$env:USERPROFILE\Desktop\test.txt" -Encoding UTF8
